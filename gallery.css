@@ -1,0 +1,27 @@
+body {
+	background: #FFF056;
+	padding-top: 0 px;
+	padding-bottom: 0 px;
+}
+div {
+	background: #585858;
+}
+h1 {
+	color: #91c6ad;
+}
+form {
+	color: #d1846c;
+}
+button{
+	color: Green;
+}
+
+/*.container {
+	background: : #2c3e50;
+}
+.navbar-inverse{
+	background: #2c3e50;*/
+}
+/*.navbar-inverse .navbar-brand>li>a {
+    color: White;
+}*/
